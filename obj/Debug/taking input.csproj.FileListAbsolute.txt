@@ -1,0 +1,7 @@
+F:\c#\taking input\taking input\bin\Debug\taking input.exe.config
+F:\c#\taking input\taking input\bin\Debug\taking input.exe
+F:\c#\taking input\taking input\bin\Debug\taking input.pdb
+F:\c#\taking input\taking input\obj\Debug\taking input.csproj.CoreCompileInputs.cache
+F:\c#\taking input\taking input\obj\Debug\taking input.exe
+F:\c#\taking input\taking input\obj\Debug\taking input.pdb
+F:\c#\taking input\taking input\obj\Debug\taking input.csprojAssemblyReference.cache
